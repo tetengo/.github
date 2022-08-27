@@ -1,3 +1,3 @@
 # [tetengo.](https://www.tetengo.org/)
 
-Library Set for C and C++
+The tetengo works.
